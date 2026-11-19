@@ -1,1 +1,5 @@
 .github/**
+
+*.tlog
+
+/build*/
